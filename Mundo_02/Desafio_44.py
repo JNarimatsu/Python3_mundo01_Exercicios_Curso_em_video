@@ -1,3 +1,4 @@
+#Gerenciador de pagamentos
 valor = float(input('Digite o valor do produto: '))
 opcoes_pag = int(input('''Informe a opção de pagamento: 
                        [1] Dinheiro ou Cheque

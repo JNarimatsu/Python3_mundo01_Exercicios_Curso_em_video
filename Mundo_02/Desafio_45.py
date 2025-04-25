@@ -1,3 +1,4 @@
+#Game: Pedra, papel e tesoura
 from random import randint
 from time import sleep
 itens = ('Pedra', 'Papel', 'Tesoura')

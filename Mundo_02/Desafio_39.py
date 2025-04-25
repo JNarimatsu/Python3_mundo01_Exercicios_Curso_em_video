@@ -1,3 +1,4 @@
+#Alistamento militar
 from datetime import date
 nome = input('Digite seu nome: ')
 genero = int(input('''você se identifica com qual genero:

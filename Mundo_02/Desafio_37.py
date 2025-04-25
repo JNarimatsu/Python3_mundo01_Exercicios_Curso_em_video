@@ -1,3 +1,4 @@
+#Conversor de bases numéricas
 numero = int(input('Que número deseja converter? '))
 escolha = int(input(''' 
                     Digite [1] para binário

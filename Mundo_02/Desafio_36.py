@@ -1,3 +1,4 @@
+#Aprovando Empréstimo
 valor_casa = float(input('Qual o valor da casa que deseja financiar? '))
 salario = float(input('Informe o valor do seu salario mensal: '))
 anos = int(input('Em quantos anos você deseja quitar o financiamento? '))

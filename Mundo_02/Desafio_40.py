@@ -1,3 +1,4 @@
+#Aquele clássico da média
 print('Olá professor! Vamos calcular as notas do primeiro bimestre?')
 nome_aluno = input('Digite o nome do aluno: ')
 nota01 = float(input('Digite a nota da primeira prova:  '))
