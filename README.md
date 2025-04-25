@@ -37,5 +37,25 @@ Diretório com os exercícios realizados no mundo 01, 02 e 03 do curso de python
 - Ano bissexto
 - Maior e menor valores
 - Analisando triângulos v.1.0
-
+### Repetição em Python (for)
+- Aprovando Empréstimo
+- Conversor de bases numéricas
+- Comparando números
+- Alistamento militar
+- Aquele clássico da média
+- Classificando atletas
+- Índice de massa corporal
+- Gerenciador de pagamentos
+- Game: Pedra, papel e tesoura
+- Contagem regressiva
+- Contagem de pares
+- Soma ímpares mútiplos de três
+- Tabuada v2.0
+- Soma de pares
+- Progressão aritmética
+- Números Primos
+- Detector de Palídromo
+- Grupo da Maioridade
+- Maior e menor peso
+- Analisador Completo
 
