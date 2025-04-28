@@ -58,6 +58,7 @@ Diretório com os exercícios realizados no mundo 01, 02 e 03 do curso de python
 - Grupo da Maioridade
 - Maior e menor peso
 - Analisador Completo
+### Repetição em Python (While)
 - Validação de Dados
 - Jogo da advinhação
 - Criando um menu de opções
