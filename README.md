@@ -37,6 +37,7 @@ Diretório com os exercícios realizados no mundo 01 e 02 do curso de python 3 r
 - Ano bissexto
 - Maior e menor valores
 - Analisando triângulos v.1.0
+## Mundo 02 🌍 :
 ### Repetição em Python (for)
 - Aprovando Empréstimo
 - Conversor de bases numéricas
