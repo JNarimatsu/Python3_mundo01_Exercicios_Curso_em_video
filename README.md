@@ -68,3 +68,9 @@ Diretório com os exercícios realizados no mundo 01, 02 e 03 do curso de python
 - Sequência de Fibonacci
 - Tratando vários valores v1.0
 - Maior e menor valores
+- Vários números com flag
+- Tabuada v3.0
+- Jogo par ou impar
+- Análise de dados do grupo
+- Estatística em produtos 
+- Simulador de caixa eletrônico
