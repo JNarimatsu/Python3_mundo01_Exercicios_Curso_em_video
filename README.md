@@ -1,5 +1,5 @@
 # Python3 🐍- Curso_em_video
-Diretório com os exercícios realizados no mundo 01, 02 e 03 do curso de python 3 realizado na plataforma curso em vídeo.
+Diretório com os exercícios realizados no mundo 01 e 02 do curso de python 3 realizado na plataforma curso em vídeo.
 ## Mundo 01 🪐 :
 ### Tratando dados e fazendo contas: 
 - Respondendo ao usuário
@@ -37,6 +37,7 @@ Diretório com os exercícios realizados no mundo 01, 02 e 03 do curso de python
 - Ano bissexto
 - Maior e menor valores
 - Analisando triângulos v.1.0
+## Mundo 02 🌍 :
 ### Repetição em Python (for)
 - Aprovando Empréstimo
 - Conversor de bases numéricas
